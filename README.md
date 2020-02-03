@@ -9,7 +9,9 @@ maybe the antivirus will ask to allwo the program to create the file
 ## Note 
 
 Bad_Character will create directory call Badchar in the the directory will create file text.txt and bytearray.bin to read and write update the Variables
-
+## socket
+the Bad_Character use socket to connect the server 
+you can use the Bad_Charcater with the program use socket 
 ## connect me !!
 administrator@jacstory.tech
 
